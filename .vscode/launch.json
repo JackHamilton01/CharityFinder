@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "dev": "vite --open",
+      "type": "chrome",
+      "request": "launch",
+      "name": "Practice App",
+      "url": "http://localhost:5173/index.html",
+    }
+  ]
+}
